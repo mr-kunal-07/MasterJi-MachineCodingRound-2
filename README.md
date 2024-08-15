@@ -1,8 +1,11 @@
-# React + Vite
+This is Machine Coding Round - 2 (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Random User Profile
+2. Random Jokes tweet
+3. Cats 
 
-Currently, two official plugins are available:
+All three assignments are inside a single react project under different URL routes for the three tasks respectively:
+/random-user
+/random-jokes
+/cats-listing
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
